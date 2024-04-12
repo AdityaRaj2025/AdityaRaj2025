@@ -14,7 +14,7 @@
 const raj = {
   pronouns: "he" | "him",
   code: [C#, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Flutter, Styled-Components, Jest, Docker],
+  tools: [WebRTC, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
