@@ -1,6 +1,6 @@
 <h2> Hi, I'm Raj Aditya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQxd3hneXVoZXYwenFjbWVkdHgzc3VvOWtpcDFyYjM0ZzQ1b3QwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84U7IeOoPUfi0SCQ/giphy.gif" width="230">
-<p><em>System Developer at <a href="http://www.unb.br">Starland Japan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>System Developer at <a href="https://www.starland.co.jp/index.html">Starland Japan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: iamadityaraj02](https://img.shields.io/twitter/follow/iamadityaraj02?style=social)](https://twitter.com/iamadityaraj02)
@@ -14,7 +14,7 @@
 const raj = {
   pronouns: "he" | "him",
   code: [C#, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Node, Flutter, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
