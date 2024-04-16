@@ -13,13 +13,11 @@
 ```javascript
 const raj = {
   pronouns: "he" | "him",
-  code: [C#, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [C#, Javascript, React, HTML, CSS, Xamarin, VB.Net, Python, Java, Php],
   tools: [WebRTC, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
