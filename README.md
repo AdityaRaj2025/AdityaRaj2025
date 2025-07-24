@@ -11,31 +11,30 @@
 ```javascript
 const rajAditya = {
   pronouns: "he" | "him",
-  location: "Kakegawa, Shizuoka, Japan",
   experience: "4+ years in software development",
   currentRole: "Full-Stack Engineer at Ralsnet (May 2024 - Present)",
   specialties: [
-    [cite_start]"Infrastructure Design (performance, scalability, user experience) [cite: 11]",
-    [cite_start]"Backend Microservices (Go, Clean Architecture, Domain-Driven Design) [cite: 12]",
-    [cite_start]"Cloud Solutions (AWS: ECS, Lambda, VPC, Route53, SNS, Cognito, DynamoDB, Terraform for IaC) [cite: 14]",
-    [cite_start]"Cross-platform Mobile Apps (MVVM architecture) [cite: 19]"
+    "Infrastructure Design (performance, scalability, user experience)",
+    "Backend Microservices (Go, Clean Architecture, Domain-Driven Design)",
+    "Cloud Solutions (AWS: ECS, Lambda, VPC, Route53, SNS, Cognito, DynamoDB, Terraform for IaC)",
+    "Cross-platform Mobile Apps (MVVM architecture)"
   ],
   languagesAndFrameworks: [
     "Go (Golang)", "TypeScript", "JavaScript", "React", "NestJS", "Next.js", "Java",
     "C#", "VB.NET", "PHP (CodeIgniter 4)", "ASP.NET", "Node.js", "Xamarin", "HTML/CSS", "XAML"
   ],
   devOpsAndTools: [
-    [cite_start]"Docker", "Git", "CI/CD", "Terraform", "Linux shell scripting [cite: 15]"
+    "Docker", "Git", "CI/CD", "Terraform", "Linux shell scripting"
   ],
   databases: ["PostgreSQL", "DynamoDB", "SQL Server", "MySQL"],
-  [cite_start]principles: ["SOLID principle [cite: 4][cite_start]", "Clean Architecture practices [cite: 6]"],
+  principles: ["SOLID principle [cite: 4][cite_start]", "Clean Architecture practices"],
   education: {
     masters: "Master of Computer Applications (New Horizon College of Engineering, India)",
     bachelors: "Bachelor of Computer Applications (Chetan Sadhan Institute of Science & Technology, India)"
   },
   achievements: [
-    [cite_start]"Top 16 Winner: National Hackathon 'Crack the COVID-19 Crisis' (NASSCOM & IBM) [cite: 46]",
-    [cite_start]"2nd Prize: 'Technozarre 2019' (New Horizon College of Engineering) [cite: 48]"
+    "Top 16 Winner: National Hackathon 'Crack the COVID-19 Crisis' (NASSCOM & IBM)",
+    "2nd Prize: 'Technozarre 2019' (New Horizon College of Engineering)"
   ],
   interests: ["Meditation", "Yoga", "Hiking", "Cooking", "Traveling", "Research new technology"],
   challenge: "I am committed to continuous learning and adopting modern tooling to improve development pipelines."
